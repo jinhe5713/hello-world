@@ -1,9 +1,9 @@
 # hello-world
 just read book
-@book{Goodfellow-et-al-2016,
+@unpublished{Goodfellow-et-al-2016-Book,
     title={Deep Learning},
-    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
-    publisher={MIT Press},
-    note={\url{http://www.deeplearningbook.org}},
+    author={Ian Goodfellow, Yoshua Bengio, and Aaron Courville},
+    note={Book in preparation for MIT Press},
+    url={http://www.deeplearningbook.org},
     year={2016}
 }
